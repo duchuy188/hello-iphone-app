@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Hello iPhone",
+    "slug": "hello-iphone-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.helloiphone"
+    },
+    "android": {
+      "package": "com.example.helloiphone"
+    }
+  }
+}
